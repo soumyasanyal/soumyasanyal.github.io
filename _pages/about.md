@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Soumya</strong> Sanyal
-description: sanyal [dot] soumya8 [at] gmail [dot] com
+description: soumyasanyal [at] iisc [dot] ac [dot] in
 
 profile:
   align: right
