@@ -7,7 +7,8 @@ description: soumyasanyal [at] iisc [dot] ac [dot] in
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  address: > 
+    <p>At <a href="https://www.parkgrandkensington.co.uk/blog/things-to-know-about-kyoto-garden/" target="blank">Kyoto Garden</a>, London</p>
 
 news: false
 social: true
