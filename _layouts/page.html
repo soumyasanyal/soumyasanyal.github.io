@@ -12,6 +12,12 @@ layout: default
     {{ content }}
   </article>
 
+
+  {% if page.footnote %}
+    <em><p style="color: #666">{{page.footnote}}</p></em>
+  {% endif %}
+
+
   {% if page.news %}
     {% include news.html %}
   {% endif %}
