@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Soumya Sanyal
-email: soumyasanyal@iisc.ac.in
+email: soumyasa@usc.edu
 description: > # this means to ignore newlines until "url:"
-  
+
 footer_text: >
 
 url:  # the base hostname & protocol for your site
